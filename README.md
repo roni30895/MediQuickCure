@@ -1,6 +1,5 @@
 # MediQuick Cure - Medical Appointment Booking System
 
-![MediQuick Cure](https://simplybook.me/build/images/trial-section/medical.7358dc7d.png)
 
 ## Overview
 
